@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minex_prueba", "minex_prueba.csproj", "{15083DB5-4FB4-4778-8947-2CB39F668216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15083DB5-4FB4-4778-8947-2CB39F668216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15083DB5-4FB4-4778-8947-2CB39F668216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15083DB5-4FB4-4778-8947-2CB39F668216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15083DB5-4FB4-4778-8947-2CB39F668216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F39C91-48D9-4D4C-8AAB-CD1E38A0C4DD}
+	EndGlobalSection
+EndGlobal
